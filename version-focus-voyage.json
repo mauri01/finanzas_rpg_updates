@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "buildNumber": 2,
+  "androidUrl": "https://play.google.com/store/apps/details?id=com.cardinale.focus_voyage",
+  "iosUrl": "https://apps.apple.com/app/id123456789",
+  "releaseNotes": "Prepara las velas es hora de zurcar a la productividad",
+  "forceUpdate": true,
+  "minSupportedVersion": "1.0.0"
+}
