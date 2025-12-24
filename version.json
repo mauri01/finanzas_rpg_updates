@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
-  "buildNumber": 13,
+  "version": "1.0.12",
+  "buildNumber": 14,
   "androidUrl": "https://play.google.com/store/apps/details?id=com.cardinale.finanzas_rpg",
   "iosUrl": "https://apps.apple.com/app/id123456789",
-  "releaseNotes": "Prepárate… la Navidad invadió la app 🎄✨",
+  "releaseNotes": "Prepárate… nuevo año nuevas metas ✨",
   "forceUpdate": false,
   "minSupportedVersion": "1.0.0"
 }
