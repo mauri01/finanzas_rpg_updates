@@ -1,9 +1,9 @@
 {
-  "version": "1.0.12",
-  "buildNumber": 14,
+  "version": "1.0.13",
+  "buildNumber": 15,
   "androidUrl": "https://play.google.com/store/apps/details?id=com.cardinale.finanzas_rpg",
   "iosUrl": "https://apps.apple.com/app/id123456789",
-  "releaseNotes": "Prepárate… nuevo año nuevas metas ✨",
+  "releaseNotes": "Nuevo año, nueva funcionalidad, ahora puedes usar el widget de Metas ✨",
   "forceUpdate": false,
   "minSupportedVersion": "1.0.0"
 }
